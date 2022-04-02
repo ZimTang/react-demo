@@ -13,7 +13,4 @@ class CounterStore {
   };
 }
 
-// 实例化
-const counterStore = new CounterStore();
-
-export default counterStore;
+export default CounterStore;

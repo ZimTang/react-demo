@@ -15,6 +15,4 @@ class ListStore {
   };
 }
 
-const listStore = new ListStore();
-
-export default listStore;
+export default ListStore;
